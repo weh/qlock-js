@@ -1,0 +1,20 @@
+body {
+  background-color: black;
+  color: #3F3F3F;
+  font-family: helvetica; 
+  font-size: 22pt; 
+  font-weight: bold;
+}
+
+table {
+  margin: 100px auto;
+  text-align: center;
+}
+td {
+  width: 50px;
+  height: 50px;
+}
+
+td.active {
+  color: orange;
+}
