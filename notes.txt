@@ -1,0 +1,67 @@
+Qlock - DiY
+
+E S S T I S C H L I P
+V I E R T E L I Z Ä H
+Z W Ä N Z G A F O I F
+H A L B I V O R A B O
+E I S L A M E Z W O I
+D R Ü B A U V I E R I
+F O I F I S Ä C H S I
+S E B N I R A C H T I
+N Ü N I M U Z Ä H N I
+E L F I H Z W Ö L F I
+
+
+
+91 LED + 4 Minuten
+
+21 Gruppen + 4 Minuten
+
+Raspberry Pi Zero WH (Header gelötet)
+CHF 15.50
+https://www.pi-shop.ch/raspberry-pi-zero-wh-header-geloetet
+
+RasClock - Raspberry Pi Real Time Clock Module V4.2 (RTC)
+CHF 16.90
+https://www.pi-shop.ch/rasclock-raspberry-pi-real-time-clock-module-v4-0-rtc
+
+Pimoroni Unicorn HAT HD 16x16
+65.0mm x 56.0mm x 7.9mm
+$34.95
+https://www.adafruit.com/product/3580
+
+
+Adafruit Trellis Monochrome Driver PCB for 4x4 Keypad & 3mm LEDs
+60mm
+$9.95
+https://www.adafruit.com/product/1616
+
+
+RIBBA
+Rahmen, schwarz, 23x23 cm
+CHF 9.95
+https://www.ikea.com/ch/de/p/ribba-rahmen-schwarz-40378401/
+Bild ohne Passepartout, Breite: 23 cm
+Bild ohne Passepartout, Höhe: 23 cm
+Bild mit Passepartout, Breite: 13 cm
+Bild mit Passepartout, Höhe: 13 cm
+Passep./Breite innen: 12 cm
+Passep./Höhe innen: 12 cm
+Korpus, Tiefe: 4.5 cm
+Rahmenbreite: 25 cm
+Rahmenhöhe: 25 cm
+
+
+RIBBA
+Rahmen, schwarz, 50x50 cm
+CHF 19.95
+https://www.ikea.com/ch/de/p/ribba-rahmen-schwarz-00378436/
+Bild ohne Passepartout, Breite: 50 cm
+Bild ohne Passepartout, Höhe: 50 cm
+Bild mit Passepartout, Breite: 30 cm
+Bild mit Passepartout, Höhe: 30 cm
+Passep./Breite innen: 29 cm
+Passep./Höhe innen: 29 cm
+Korpus, Tiefe: 4.5 cm
+Rahmenbreite: 52 cm
+Rahmenhöhe: 52 cm
